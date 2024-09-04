@@ -13,3 +13,9 @@
 ![image](https://github.com/user-attachments/assets/c0fb20fd-c9e3-49e1-96df-76f2722625e6)
 
 - 첫구매를 7월에 한 고객이 다음달에도 옷을 구매할 리텐션율이 가장 높은 것으로 확인
+
+## 유저 분포도 지도 시각화
+![image](https://github.com/user-attachments/assets/257583e3-f447-411a-80f8-2092cff7db6b)
+
+- folium 라이브러리 활용하여 지도 데이터를 활성화
+- users의 위도와 경도, 지역 데이터를 활용하여 어떤 지역에서 많이 구매했는지 알아보기 위하여 지도를 활용하여 시각화
