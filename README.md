@@ -8,6 +8,7 @@
 ## 파레토 차트
 ![image](https://github.com/user-attachments/assets/23bbfc80-3f92-48e3-aa03-3464b6af5870)
 
+- 누적을 표시하는 선이 가파라지는 부분이 가장 큰 영향을 미치는 요소
 
 ## 코호트 분석
 ![image](https://github.com/user-attachments/assets/c0fb20fd-c9e3-49e1-96df-76f2722625e6)
